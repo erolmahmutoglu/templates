@@ -1,0 +1,983 @@
+{
+  "11949": {
+    "otel_id": 11949,
+    "otel_adi": "Grand As Hotel",
+    "otel_adres": "Nüzhet Efendi Sok. No:27 Kadıköy İstanbul",
+    "otel_adres_aciklama": "",
+    "micro_logo": null,
+    "calisma_sekli": "komisyonlu",
+    "toplam_gece": 6,
+    "giris_tarihi": "2024-05-01",
+    "cikis_tarihi": "2024-05-07",
+    "karsilama_kodu": "Rezervasyon",
+    "fiyat_hesaplama": "Otelfiyat",
+    "komisyon_orani": 15.0,
+    "ozel_komisyon_orani": null,
+    "komisyon_kumulatif_durum": 0,
+    "kickback_orani": 0.0,
+    "kickback_kumulatif_durum": 0,
+    "otelin_mail_adresi": "info@grandashotel.com",
+    "kapida_odeme_durum": "evet",
+    "kapida_komisyon_orani": 15.0,
+    "kapida_indirim_orani": 0,
+    "kapida_odeme_para_birimi_goster": 0,
+    "kaporali_satis_durum": "hayir",
+    "kaporali_satis_orani": 0.0,
+    "kaporali_indirim_orani": 0,
+    "kismi_odeme": 1,
+    "kismi_odeme_orani": 10,
+    "kismi_odeme_tarihi": "2024-04-28",
+    "indirim_orani": 0,
+    "ozel_indirim_orani": null,
+    "satis_para_birimi": "TRY",
+    "para_birimi": "TRY",
+    "kur": "TRY",
+    "kur_sabitleme": 0,
+    "kur_degeri": 1,
+    "gostermelik_indirim_orani": 10,
+    "fiyat_saglayici": "none",
+    "toplam_para_puan": null,
+    "indirim_kuponu_kullanilabilir": 0,
+    "transfer_bilgileri": {
+      "durum": 0,
+      "transfer_ucreti": 0
+    },
+    "iptal_sigortasi_durum": 0,
+    "request": {
+      "otel_id": [11949],
+      "oda_id": 0,
+      "pansiyon_id": 0,
+      "odeme_tipi": 0,
+      "giris_tarihi": "2024-05-01",
+      "cikis_tarihi": "2024-05-07",
+      "toplam_gece": 6,
+      "yetiskin_sayisi": 2,
+      "cocuk_sayisi": 1,
+      "cocuk_hesaplama_tipi": "yil",
+      "cocuk_1": 1,
+      "cocuk_2": null,
+      "cocuk_3": null,
+      "cocuk_4": null,
+      "ozel_indirimler": [],
+      "platform": "otelfiyat",
+      "cihaz": 0,
+      "analiz": 0,
+      "indirim_kuponu_kodu": null,
+      "otel_bilgileri": 1,
+      "parapuan_bilgisi": {
+        "uye_id": 0,
+        "harcanan_parapuan": 0
+      },
+      "transfer_ucreti": 0,
+      "iptal_sigortasi": 1,
+      "acente_kodu": null,
+      "cocuk_yaslari": [1]
+    },
+    "otelz_id": 0,
+    "acente_kodu": null,
+    "acente_komisyon_orani": null,
+    "tek_bay_kabul": 2,
+    "otel_bilgileri": {
+      "otel_id": 11949,
+      "otel_adi": "Grand As Hotel",
+      "sef_link": "grand-as-hotel",
+      "telefon": "0 216 912 03 26",
+      "x_koordinat": "40.9924700000",
+      "y_koordinat": "29.0262920000",
+      "vitrin_fiyat": 875.0,
+      "vitrin_fiyat_odeme_tipi": "normal",
+      "title_vitrin_fiyat_goster": 1,
+      "bilgiler": {
+        "genel": {
+          "baslik": "",
+          "aciklama": "Grand As Hotel; İstanbul Kadıköy'de yer almaktadır. Siz değerli misafirlerimizin konforu düşünülerek dizayn edilmiş 56 oda ile hizmet vermektedir. Oda kahvaltı konseptinde hizmet vermekte olup sabah kahvaltısını açık büfe olarak hizmet alabilirsiniz. Ayrıca merkezi konumundan dolayı çevrede bulunan restaurantlardan hizmet alabilirsiniz. Merkezi konumu dolayısıyla bir çok eğlence merkezi ve alışveriş mekezini sevdikerinizle ziyaret edebilir ve keyifli zaman geçirebilirsiniz. Grand As Hotel; Kadıköy metroya 800 metre, Haydarpaşa tren istasyonuna 1 km, Sabiha Gökçen havalimanına 38 km, İstanbul havalimanına 54 km uzaklıkta yer almaktadır.",
+          "ozellikler": [
+            {
+              "ozellik_id": 2,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Wifi",
+              "ozellik_icon": "icon-wifi"
+            },
+            {
+              "ozellik_id": 18,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Tek bay kabul ediyor",
+              "ozellik_icon": "icon-male"
+            },
+            {
+              "ozellik_id": 8,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Otopark",
+              "ozellik_icon": "icon-cab"
+            },
+            {
+              "ozellik_id": 89,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Havaalanı Servis",
+              "ozellik_icon": "icon-paper-plane"
+            },
+            {
+              "ozellik_id": 50,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Asansör",
+              "ozellik_icon": "icon-columns"
+            }
+          ],
+          "one_cikan_ozellikler": [
+            {
+              "ozellik_id": 0,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Merkezi Konum",
+              "ozellik_icon": "icon-star"
+            },
+            {
+              "ozellik_id": 0,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Geniş Ferah Odalar",
+              "ozellik_icon": "icon-star"
+            },
+            {
+              "ozellik_id": 0,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Ücretsiz Otopark",
+              "ozellik_icon": "icon-star"
+            },
+            {
+              "ozellik_id": 0,
+              "ozellik_tipi": "genel",
+              "ozellik_adi": "Ücretsiz wi-fi",
+              "ozellik_icon": "icon-star"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cocuk": {
+    "baslik": "Minik Misafirlerimize Özel",
+    "aciklama": "",
+    "ozellikler": null
+  },
+  "konaklama": {
+    "baslik": "Konaklama Bilgileri",
+    "aciklama": "Grand As Hotel; Siz değerli misafirlerimizin konforu düşünülerek dizayn edilmiş 56 oda ile hizmet vermektedir. Odalarda; klima, minibar, masa, saç kurutma makinesi, telefon, banyo buklet malzemesi, televizyon, uydu ve kablosuz internet bağlantısı bulunmaktadır.",
+    "ozellikler": [
+      {
+        "ozellik_id": 72,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Zemin Parke",
+        "ozellik_icon": "icon-align-justify"
+      },
+      {
+        "ozellik_id": 66,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Uydu Yayını",
+        "ozellik_icon": "icon-signal"
+      },
+      {
+        "ozellik_id": 71,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Telefon",
+        "ozellik_icon": "icon-phone"
+      },
+      {
+        "ozellik_id": 59,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Saç Kurutma Makinası",
+        "ozellik_icon": "icon-videocam-alt"
+      },
+      {
+        "ozellik_id": 1,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Minibar",
+        "ozellik_icon": "icon-glass"
+      },
+      {
+        "ozellik_id": 65,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "LCD Tv",
+        "ozellik_icon": "icon-desktop"
+      },
+      {
+        "ozellik_id": 5,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Klima",
+        "ozellik_icon": "icon-air"
+      },
+      {
+        "ozellik_id": 4,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Havlu",
+        "ozellik_icon": "icon-bookmarks"
+      },
+      {
+        "ozellik_id": 67,
+        "ozellik_tipi": "oda",
+        "ozellik_adi": "Banyoda Duşakabin",
+        "ozellik_icon": "icon-water"
+      }
+    ]
+  },
+  "yiyecek": {
+    "baslik": "Yiyecek İçecek Bilgileri",
+    "aciklama": "Grand As Hotel; Oda kahvaltı konseptinde hizmet vermekte olup sabah kahvaltısını açık büfe olarak hizmet alabilirsiniz. Ayrıca merkezi konumundan dolayı çevrede bulunan restaurantlardan hizmet alabilirsiniz.",
+    "ozellikler": [
+      {
+        "ozellik_id": 98,
+        "ozellik_tipi": "yiyecek",
+        "ozellik_adi": "Kapalı Restorant",
+        "ozellik_icon": "icon-home-1"
+      }
+    ]
+  },
+  "aktivite": {
+    "baslik": "Aktivite Bilgileri",
+    "aciklama": "Grand As Hotel; İstanbul Kadıköy'de yer almaktadır.  Merkezi konumu dolayısıyla bir çok eğlence merkezi ve alışveriş mekezini sevdikerinizle ziyaret edebilir ve keyifli zaman geçirebilirsiniz.",
+    "ozellikler": [
+      {
+        "ozellik_id": 9,
+        "ozellik_tipi": "aktivite",
+        "ozellik_adi": "Toplantı salonu",
+        "ozellik_icon": "icon-users"
+      },
+      {
+        "ozellik_id": 90,
+        "ozellik_tipi": "aktivite",
+        "ozellik_adi": "Araç Kiralama",
+        "ozellik_icon": "icon-cab"
+      }
+    ]
+  },
+  "termal": {
+    "baslik": "Spa Merkezi",
+    "aciklama": "",
+    "ozellikler": null
+  },
+  "havuz": {
+    "baslik": "Havuz Özellikleri",
+    "aciklama": "",
+    "ozellikler": null
+  },
+  "toplanti": {
+    "baslik": "Toplantı Salonu Özellikleri",
+    "aciklama": "Grand As Hotel; siz değerli misafirlerimizin ekstra ücret karşılığında kullanabileceğiniz 2 adet toplantı salonu bulunmaktadır.",
+    "ozellikler": null
+  },
+  "balayi": {
+    "baslik": "Balayı İmkanları",
+    "aciklama": "Grand As Hotel; balayı misafirlerimize ekstra ücret karşılığında oda süslemesi yapılmaktadır.",
+    "ozellikler": null
+  },
+  "internet": {
+    "baslik": "İnternet Kullanımı",
+    "aciklama": "Grand As Hotel; tüm kulanım alanlarında kullanabileceğiniz kablosuz internet bağlantısı bulunmaktadır.",
+    "ozellikler": null
+  },
+  "otel_insaa": 2000,
+  "otel_yenileme": 2012,
+  "otel_odasayisi": 70,
+  "denize_mesafe": 300,
+  "pansiyon_tipi": ["", "Oda Kahvaltı"],
+  "ucretsiz_cocuk": {
+    "d1childok": 1,
+    "cocuk1": 6,
+    "cocuk1ucretlimin": 7.0,
+    "cocuk1ucretlimax": 12.0,
+    "cocuk1ucret": null,
+    "d2childok": 1,
+    "cocuk2": 6,
+    "cocuk2ucretlimin": 7.0,
+    "cocuk2ucretlimax": 12.0,
+    "cocuk2ucret": null
+  },
+  "breadcrumb": {
+    "bolge": "Marmara Bölgesi",
+    "bolge_id": 3,
+    "bolge_tesis_sayisi": 1364,
+    "bolge_link": null,
+    "sehir": "İstanbul Anadolu",
+    "sehir_id": 1129,
+    "sehir_tesis_sayisi": 168,
+    "sehir_link": "istanbul-anadolu",
+    "ilce": "Kadıköy",
+    "ilce_id": 333,
+    "ilce_tesis_sayisi": 23,
+    "ilce_link": "kadikoy",
+    "semt": null,
+    "semt_id": null,
+    "semt_tesis_sayisi": null,
+    "semt_link": null
+  },
+  "tum_resimler": [
+    {
+      "id": 242112,
+      "otel_id": 11949,
+      "resim_adi": "MRKIZH1608726127.jpg",
+      "sira": 1,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242115,
+      "otel_id": 11949,
+      "resim_adi": "EQVKE1608726127.jpg",
+      "sira": 2,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242114,
+      "otel_id": 11949,
+      "resim_adi": "MGOBBE1608726127.jpg",
+      "sira": 3,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242119,
+      "otel_id": 11949,
+      "resim_adi": "GXBCAP1608726127.jpg",
+      "sira": 4,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242127,
+      "otel_id": 11949,
+      "resim_adi": "FYGSF1608726127.jpg",
+      "sira": 5,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242123,
+      "otel_id": 11949,
+      "resim_adi": "CUXSDU1608726127.jpg",
+      "sira": 6,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242135,
+      "otel_id": 11949,
+      "resim_adi": "IKDKCV1608726127.jpg",
+      "sira": 7,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242138,
+      "otel_id": 11949,
+      "resim_adi": "OBFCN1608726127.jpg",
+      "sira": 8,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242126,
+      "otel_id": 11949,
+      "resim_adi": "WUUDGB1608726127.jpg",
+      "sira": 9,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242117,
+      "otel_id": 11949,
+      "resim_adi": "NMQUCV1608726127.jpg",
+      "sira": 10,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242113,
+      "otel_id": 11949,
+      "resim_adi": "NBUAFN1608726127.jpg",
+      "sira": 11,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242116,
+      "otel_id": 11949,
+      "resim_adi": "PLSIEH1608726127.jpg",
+      "sira": 12,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242118,
+      "otel_id": 11949,
+      "resim_adi": "IMDKEI1608726127.jpg",
+      "sira": 13,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242120,
+      "otel_id": 11949,
+      "resim_adi": "VDBCPU1608726127.jpg",
+      "sira": 14,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242121,
+      "otel_id": 11949,
+      "resim_adi": "BXLAPM1608726127.jpg",
+      "sira": 15,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242122,
+      "otel_id": 11949,
+      "resim_adi": "AEHHDJ1608726127.jpg",
+      "sira": 16,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242124,
+      "otel_id": 11949,
+      "resim_adi": "ZBQDQC1608726127.jpg",
+      "sira": 17,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242125,
+      "otel_id": 11949,
+      "resim_adi": "UVSWL1608726127.jpg",
+      "sira": 18,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242128,
+      "otel_id": 11949,
+      "resim_adi": "NWFNF1608726127.jpg",
+      "sira": 19,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242129,
+      "otel_id": 11949,
+      "resim_adi": "MIALEQ1608726127.jpg",
+      "sira": 20,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242130,
+      "otel_id": 11949,
+      "resim_adi": "JLLIJ1608726127.jpg",
+      "sira": 21,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242131,
+      "otel_id": 11949,
+      "resim_adi": "SIVIBF1608726127.jpg",
+      "sira": 22,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242132,
+      "otel_id": 11949,
+      "resim_adi": "EUCWUZ1608726127.jpg",
+      "sira": 23,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242133,
+      "otel_id": 11949,
+      "resim_adi": "YZJSHE1608726127.jpg",
+      "sira": 24,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242134,
+      "otel_id": 11949,
+      "resim_adi": "AAQTR1608726127.jpg",
+      "sira": 25,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242136,
+      "otel_id": 11949,
+      "resim_adi": "QLGAVC1608726127.jpg",
+      "sira": 26,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242137,
+      "otel_id": 11949,
+      "resim_adi": "EGRLO1608726127.jpg",
+      "sira": 27,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242139,
+      "otel_id": 11949,
+      "resim_adi": "BLMFPQ1608726127.jpg",
+      "sira": 28,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242140,
+      "otel_id": 11949,
+      "resim_adi": "UVVVBB1608726127.jpg",
+      "sira": 29,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242141,
+      "otel_id": 11949,
+      "resim_adi": "ZHRDT1608726127.jpg",
+      "sira": 30,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242142,
+      "otel_id": 11949,
+      "resim_adi": "ROZFHC1608726127.jpg",
+      "sira": 31,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242143,
+      "otel_id": 11949,
+      "resim_adi": "MJGABG1608726127.jpg",
+      "sira": 32,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242144,
+      "otel_id": 11949,
+      "resim_adi": "EEEGGU1608726127.jpg",
+      "sira": 33,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242145,
+      "otel_id": 11949,
+      "resim_adi": "WYEOKA1608726127.jpg",
+      "sira": 34,
+      "path": "/media/inet/3714145295/"
+    },
+    {
+      "id": 242146,
+      "otel_id": 11949,
+      "resim_adi": "PEHSAT1608726127.jpg",
+      "sira": 35,
+      "path": "/media/inet/3714145295/"
+    }
+  ],
+  "yorumlar": [
+    {
+      "kategori": "İş Gezisi",
+      "ortalama": 9.666666666666666,
+      "musteri_adi": "s. s",
+      "musteri_adi_gosterim": "Evet",
+      "g_tarihi": "04-08-2022",
+      "c_tarihi": "06-08-2022",
+      "yorum_olumlu": "çalışanlar ilgili temiz ve güzel bir oteldi yemekleri beğendim",
+      "yorum_olumsuz": "wifi az çekiyodu çok fazla insan bağlandığı için olabilir",
+      "tarih": "2022-08-08"
+    },
+    {
+      "kategori": "İş Gezisi",
+      "ortalama": 10,
+      "musteri_adi": "b. l.",
+      "musteri_adi_gosterim": "Evet",
+      "g_tarihi": "04-08-2022",
+      "c_tarihi": "06-08-2022",
+      "yorum_olumlu": "temizdi yatak rahattı ilgilendi çalışanlar teşekkürler",
+      "yorum_olumsuz": "terlik unutulmuştu getirdiler ",
+      "tarih": "2022-08-08"
+    },
+    {
+      "kategori": "İş Gezisi",
+      "ortalama": 9.666666666666666,
+      "musteri_adi": "g. e",
+      "musteri_adi_gosterim": "Evet",
+      "g_tarihi": "04-08-2022",
+      "c_tarihi": "06-08-2022",
+      "yorum_olumlu": "yatakları rahattı otel temizdi iş gezisine geldim konkladık güzeldi",
+      "yorum_olumsuz": "wifi az çekiyodu",
+      "tarih": "2022-08-08"
+    },
+    {
+      "kategori": "İş Gezisi",
+      "ortalama": 10,
+      "musteri_adi": "s. y",
+      "musteri_adi_gosterim": "Evet",
+      "g_tarihi": "04-08-2022",
+      "c_tarihi": "06-08-2022",
+      "yorum_olumlu": "kliması olması büyük bir avantaj hava aşırı sıcak klima da kuzey kutbuna çevirdi odayı resmen her şey güzeldi çalışanlar yemekler hepsinden memnun kaldık teşekkür ederiz",
+      "yorum_olumsuz": "televizyonu küçüktü",
+      "tarih": "2022-08-08"
+    }
+  ],
+  "yorumlar_grup": {
+    "Tüm Yorumlar": {
+      "otel_adi": "Grand As Hotel",
+      "kategori": "Tüm Yorumlar",
+      "sayi": 4,
+      "genel_ortalama": 9.833333333333334,
+      "personel_iletisim": 10,
+      "temizlik": 10,
+      "konum_cevre": 9.5,
+      "restoran_yemek": 9.5,
+      "odalar": 10,
+      "fiyat_kalite": 10
+    }
+  },
+  "cocuk_bilgileri": {
+    "cocuk_kabul_1": 1,
+    "aciklama_1": "0-6 Yaş Arası",
+    "cocuk_kabul_2": 1,
+    "aciklama_2": "0-6 Yaş Arası",
+    "cocuk_kabul_3": 1,
+    "aciklama_3": "0-6 Yaş Arası",
+    "cocuk_kabul_4": 1,
+    "aciklama_4": "0-6 Yaş Arası"
+  },
+  "koordinat_otelleri": null,
+  "google_site_map": {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Grand As Hotel",
+    "description": "Grand As Hotel için En Uygun Fiyat Garantisi, Grand As Hotel Erken Rezervasyonda %50 ye varan indirimler, Peşin Fiyatına 9 taksit fırsatı ve Kolay Online Rezervasyon için Otelfiyat.com",
+    "url": "https://www.otelfiyat.com/otel/grand-as-hotel",
+    "inLanguage": "tr-TR",
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.otelfiyat.com/",
+            "name": "otelfiyat"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.otelfiyat.com/istanbul-anadolu-otelleri",
+            "name": "İstanbul Anadolu Otelleri"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.otelfiyat.com/kadikoy-otelleri",
+            "name": "Kadıköy Otelleri"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.otelfiyat.com/otel/grand-as-hotel",
+            "name": "Grand As Hotel"
+          }
+        }
+      ]
+    },
+    "mainEntity": {
+      "@type": "Hotel",
+      "name": "Grand As Hotel",
+      "url": "https://www.otelfiyat.com/otel/grand-as-hotel",
+      "image": "https://www.otelfiyat.com/media/inet/3714145295/buyuk/MRKIZH1608726127.jpg",
+      "description": "Grand As Hotel için En Uygun Fiyat Garantisi, Grand As Hotel Erken Rezervasyonda %50 ye varan indirimler, Peşin Fiyatına 12 taksit fırsatı ve Kolay Online Rezervasyon için Otelfiyat.com",
+      "priceRange": "875.00 TL 'den Başlayan Fiyatlar",
+      "telephone": "0 216 912 03 26",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "9.8",
+        "bestRating": 10,
+        "reviewCount": "4"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Türkiye",
+        "addressLocality": "İstanbul Anadolu",
+        "streetAddress": "Kadıköy"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.9924700000",
+        "longitude": "29.0262920000"
+      }
+    },
+    "video": ""
+  },
+  "odalar": [
+    {
+      "oda_id": 76787,
+      "oda_adi": "Standart Oda",
+      "yetiskin_sayisi": 2,
+      "cocuk_sayisi": 1,
+      "gostermelik_indirim_orani": 10,
+      "odeme_sekli": {
+        "odeme": ["normal", "kapida"],
+        "fiyat_durum": ["kapida"],
+        "oranlar": []
+      },
+      "oda_aciklama": "Tek Kişilik Odalar 20 metrekare genişliğindedir. Odalarda çift kişilik yatak mevcuttur. Konukların odalarındaki konfor göz önünde bulundurularak her birinde 24 saat sıcak su olan özel banyo konumlandırılmıştır. Ayrıca terlikler, havlular, ücretsiz banyo malzemeleri ve saç kurutma makinesi gibi ilave olanaklar da banyolarda sunulmaktadır.",
+      "oda_genisligi": 0,
+      "resim1": "1654538156_g-22.jpg",
+      "resim2": "1654538156_g-33.jpg",
+      "resim3": "1654538157_g-44.jpg",
+      "resim4": "1654538157_g-66.jpg",
+      "cocuk_dogum_hesaplama_tipi": "yil",
+      "oda_ozellikleri": [
+        {
+          "otel_oda_id": 76787,
+          "oda_adi": "Standart Oda",
+          "ozellik_id": "",
+          "ozellik_adi": "",
+          "ozellik_tipi": "",
+          "ozellik_ucret": "",
+          "one_cikan_ozellik": "",
+          "one_cikan_siralama": ""
+        }
+      ],
+      "oda_cocuk_kabul": 1,
+      "minimum_gece_durum": 0,
+      "kal_ode_bilgileri": null,
+      "pansiyonlar": [
+        {
+          "pansiyon_id": 13503,
+          "pansiyon_adi": "Oda Kahvaltı",
+          "fiyatlar": {
+            "normal": {
+              "normal_toplam": 10500,
+              "normal_maliyet": 8925,
+              "normal_indirimli": 10500,
+              "normal_toplam_kur": 10500,
+              "normal_maliyet_kur": 8925,
+              "normal_indirimli_kur": 10500,
+              "normal_brut_maliyet": 8925,
+              "normal_brut_maliyet_kur": 8925,
+              "normal_otelfiyat": 10500,
+              "normal_otelfiyat_kur": 10500,
+              "normal_gostermelik": 11666.666666667,
+              "fiyat_durum": 1,
+              "fiyat_durum_mesaj": "Fiyat Hesaplama Başarılı",
+              "gunluk_fiyatlar": {
+                "2024-05-01": {
+                  "tarih": "2024-05-01",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                },
+                "2024-05-02": {
+                  "tarih": "2024-05-02",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                },
+                "2024-05-03": {
+                  "tarih": "2024-05-03",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                },
+                "2024-05-04": {
+                  "tarih": "2024-05-04",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                },
+                "2024-05-05": {
+                  "tarih": "2024-05-05",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                },
+                "2024-05-06": {
+                  "tarih": "2024-05-06",
+                  "yetiskin_sayisi": 2,
+                  "cocuk_sayisi": 1,
+                  "indirimsiz_fiyat": 1750,
+                  "indirimsiz_fiyat_kur": 1750,
+                  "gostermelik": 1944.4444444444,
+                  "fiyat": 1750,
+                  "maliyet": 1487.5,
+                  "fiyat_kur": 1750,
+                  "maliyet_kur": 1487.5,
+                  "brut_maliyet": 1487.5,
+                  "brut_maliyet_kur": 1487.5,
+                  "otelfiyat": 1750,
+                  "otelfiyat_kur": 1750,
+                  "cocuk_durum": {
+                    "oda_id": 76787,
+                    "cocuk_1_durum": 1,
+                    "cocuk_1_mesaj": "1. Çocuk Ücretsiz."
+                  },
+                  "ozel_katsayi_orani": null,
+                  "geceleme_key": 1,
+                  "minimum_gece": null
+                }
+              },
+              "ucretli_cocuk_durum": 0,
+              "minimum_gece_durum": 0,
+              "stop_durum": 2,
+              "kontenjan_durum": 3,
+              "stop_durum_mesaj": "Kontenjan Yoktur",
+              "uygulanan_indirimler": [
+                {
+                  "indirim_tipi": "bugune_ozel",
+                  "indirim_adi": "Bugüne Özel İndirim",
+                  "gostermelik_indirim_orani": "10",
+                  "satis_indirim_orani": 0,
+                  "maliyet_indirim_orani": 0,
+                  "satisa_etki": "hayir",
+                  "maliyete_etki": "hayir"
+                }
+              ],
+              "periyot_durum": 1,
+              "periyot_durum_mesaj": "Fiyat Periyotları Dolu"
+            }
+          },
+          "stoplar": {
+            "stop_normal": {
+              "2024-05-01": 0,
+              "2024-05-02": 0,
+              "2024-05-03": 0,
+              "2024-05-04": 0,
+              "2024-05-05": 0,
+              "2024-05-06": 0
+            }
+          },
+          "kontenjan": {
+            "2024-05-01": 0,
+            "2024-05-02": 0,
+            "2024-05-03": 0,
+            "2024-05-04": 0,
+            "2024-05-05": 0,
+            "2024-05-06": 0
+          },
+          "fiyat_tarihi": [
+            "2024-05-01",
+            "2024-05-02",
+            "2024-05-03",
+            "2024-05-04",
+            "2024-05-05",
+            "2024-05-06"
+          ],
+          "periyot_kontrolu": 1,
+          "periyot_kontrolu_mesaj": "Periyotlar Dolu"
+        }
+      ],
+      "otele_odeme_gunu": "2024-05-01",
+      "hesaplama_tipi": "normal_hesaplama"
+    }
+  ],
+  "en_dusuk_fiyat": {
+    "oda_id": 76787,
+    "oda_adi": "Standart Oda",
+    "pansiyon_id": 13503,
+    "pansiyon_adi": "Oda Kahvaltı",
+    "odeme_tipi": "normal",
+    "resim1": "1654538156_g-22.jpg",
+    "normal_toplam": 10500,
+    "normal_maliyet": 8925,
+    "normal_indirimli": 10500,
+    "normal_toplam_kur": 10500,
+    "normal_maliyet_kur": 8925,
+    "normal_indirimli_kur": 10500,
+    "normal_brut_maliyet": 8925,
+    "normal_brut_maliyet_kur": 8925,
+    "normal_otelfiyat": 10500,
+    "normal_otelfiyat_kur": 10500,
+    "normal_gostermelik": 11666.666666667,
+    "fiyat_durum": 1,
+    "fiyat_durum_mesaj": "Fiyat Hesaplama Başarılı",
+    "ucretli_cocuk_durum": 0,
+    "minimum_gece_durum": 0,
+    "stop_durum": 2,
+    "kontenjan_durum": 3,
+    "stop_durum_mesaj": "Kontenjan Yoktur",
+    "periyot_durum": 1,
+    "periyot_durum_mesaj": "Fiyat Periyotları Dolu"
+  }
+}

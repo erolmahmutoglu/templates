@@ -1,0 +1,159 @@
+[
+  {
+    "otel_id": "18348",
+    "otel_adi": "Gold Twins Relax Hotel",
+    "begeni_durum": "0",
+    "otel_lokasyon_id": "59",
+    "otel_lokasyon": "Mahmutlar",
+    "ozel_lokasyon": "Alanya",
+    "kapida_odeme": "hayir",
+    "one_cikan_ozellik_1": "Denize Yakın Konum ",
+    "one_cikan_ozellik_2": " Merkezi Konum ",
+    "yildiz": 4,
+    "yildiz_puan": 4,
+    "cizgili_fiyat": 889,
+    "fiyat": 760,
+    "fiyat_siralama": 760,
+    "currency": "TRY",
+    "pansiyon": "Sadece Oda",
+    "pansiyonlar": ["Sadece Oda", "Sadece Oda", "Oda Kahvaltı"],
+    "ucretsiz_cocuk_yasi": "12",
+    "ucretsiz_cocuk_1_ok": "1",
+    "ucretli_cocuk_1_min": "13",
+    "ucretli_cocuk_1_max": "14",
+    "ucretli_cocuk_1_fiyat": null,
+    "ucretsiz_cocuk_yasi2": "12",
+    "ucretsiz_cocuk_2_ok": "1",
+    "ucretli_cocuk_2_min": "13",
+    "ucretli_cocuk_2_max": "14",
+    "ucretli_cocuk_2_fiyat": null,
+    "indirim_orani": 15,
+    "otel_resimler": [
+      {
+        "path": "/media/inet/3673794245/kucuk",
+        "resim": "DPGIH1622472727.jpg",
+        "otel_adi": "Gold Twins Relax Hotel",
+        "micro_logo": "1621087511_gold-twins-relax.png",
+        "video_link": ""
+      },
+      {
+        "path": "/media/inet/3673794245/kucuk",
+        "resim": "WLCXUO1621088075.jpg",
+        "otel_adi": "Gold Twins Relax Hotel",
+        "micro_logo": "1621087511_gold-twins-relax.png",
+        "video_link": ""
+      },
+      {
+        "path": "/media/inet/3673794245/kucuk",
+        "resim": "EMMQK1621088050.jpg",
+        "otel_adi": "Gold Twins Relax Hotel",
+        "micro_logo": "1621087511_gold-twins-relax.png",
+        "video_link": ""
+      },
+      {
+        "path": "/media/inet/3673794245/kucuk",
+        "resim": "WWCVGX1621088056.jpg",
+        "otel_adi": "Gold Twins Relax Hotel",
+        "micro_logo": "1621087511_gold-twins-relax.png",
+        "video_link": ""
+      },
+      {
+        "path": "/media/inet/3673794245/kucuk",
+        "resim": "VCZLD1621088066.jpg",
+        "otel_adi": "Gold Twins Relax Hotel",
+        "micro_logo": "1621087511_gold-twins-relax.png",
+        "video_link": ""
+      }
+    ],
+    "otel_resim": "DPGIH1622472727.jpg",
+    "otel_resim_alt": "",
+    "otel_ozellikleri": [
+      "Plaj Havlusu",
+      "Otele özel plaj",
+      "Kum plaj",
+      "Açık havuz",
+      "Kapalı Restorant",
+      "Açık Restorant",
+      "Zemin Parke",
+      "Uydu Yayını",
+      "Televizyon",
+      "Telefon",
+      "Sigara İçilen Oda",
+      "Saç Kurutma Makinası",
+      "Minibar",
+      "LCD Tv",
+      "Klima",
+      "Havlu",
+      "Banyoda Duşakabin",
+      "Balkon",
+      "Wifi",
+      "Tek bay kabul ediyor",
+      "Otopark",
+      "Oda Servisi",
+      "Merkezi konum",
+      "Asansör"
+    ],
+    "resim_path": "/media/inet/3673794245/kucuk",
+    "otel_tipi": ["kayak"],
+    "map_x": "36.5016130000",
+    "map_y": "32.0933040000",
+    "tavsiye_edilen": null,
+    "tavsiye_sira": null,
+    "sef_link": "gold-twins-relax-hotel",
+    "ozel_indirimler": "",
+    "sira": 204,
+    "tedarikci": "inet",
+    "cc_durum": "1",
+    "banka_kampanya_banka_adi": "",
+    "banka_kampanya_indirim_orani": 0,
+    "banka_kampanya_taksit_sayisi": 0,
+    "banka_kampanya_aktiflik": "",
+    "maksimum_taksitler": {
+      "3": {
+        "banka_id": "3",
+        "banka_adi": "finans",
+        "icon": "finans.png",
+        "max_taksit": "12"
+      },
+      "4": {
+        "banka_id": "4",
+        "banka_adi": "akbank",
+        "icon": "axess.png",
+        "max_taksit": "12"
+      },
+      "5": {
+        "banka_id": "5",
+        "banka_adi": "halk",
+        "icon": "paraf.png",
+        "max_taksit": "12"
+      },
+      "6": {
+        "banka_id": "6",
+        "banka_adi": "is",
+        "icon": "maximum.png",
+        "max_taksit": "12"
+      },
+      "7": {
+        "banka_id": "7",
+        "banka_adi": "ykb",
+        "icon": "world.png",
+        "max_taksit": "12"
+      },
+      "8": {
+        "banka_id": "8",
+        "banka_adi": "ziraat",
+        "icon": "combo.png",
+        "max_taksit": "12"
+      },
+      "11": {
+        "banka_id": "11",
+        "banka_adi": "deniz",
+        "icon": "bonus.png",
+        "max_taksit": "12"
+      }
+    },
+    "maksimum_taksit": "9",
+    "fiyat_hesaplama": "1",
+    "toplam_gece": 1
+  }
+]
