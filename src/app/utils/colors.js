@@ -41,4 +41,16 @@ export const colorCombinations = [
       secondary: "#F6B60D",
     },
   },
+  {
+    "Tea green & moss": {
+      primary: "#333A2F",
+      secondary: "#EBEDDF",
+    },
+  },
+  {
+    "Green & Dark Blue": {
+      primary: "#22C55E",
+      secondary: "#100070",
+    },
+  },
 ];
