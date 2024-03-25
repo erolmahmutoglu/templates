@@ -39,9 +39,11 @@ const MarkerWithInfowindow = ({
 };
 
 function Maps({ name = "Example Hotel", position = { lat: 36, lng: 36 } }) {
+  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+
   return (
     <div className="w-full h-96">
-      <APIProvider apiKey={"AIzaSyAoBj7mKifiwfF0CZ8KwEyVmy7PjbYHKO4"}>
+      <APIProvider apiKey={apiKey}>
         <Map defaultCenter={position} defaultZoom={15}>
           <Marker position={position} />
           <MarkerWithInfowindow name={name} position={position} />
