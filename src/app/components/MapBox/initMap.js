@@ -6,7 +6,7 @@ export const initMap = (container, coords, accessToken) => {
     style: "mapbox://styles/mapbox/streets-v11",
     pitchWithRotate: false,
     center: coords,
-    zoom: 15,
+    zoom: 12,
     accessToken,
     doubleClickZoom: false,
   });
