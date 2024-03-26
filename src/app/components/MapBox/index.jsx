@@ -2,17 +2,18 @@
 
 import { useRef } from "react";
 import { useMap } from "./useMap";
+import styles from "./MapBox.module.css";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 
-const MapView = ({ popupContent, position }) => {
+const MapView = ({ title, position, accessToken, color = "#b91c1c" }) => {
   const mapRef = useRef(null);
-  useMap(mapRef, position, popupContent);
+  useMap(mapRef, position, title, accessToken, color);
 
   return (
-    <div className="w-full h-96 mx-auto">
-      <div ref={mapRef} className="w-full h-full" />
-    </div>
+    <section className={styles.container}>
+      <div ref={mapRef} className={styles.map} />
+    </section>
   );
 };
 

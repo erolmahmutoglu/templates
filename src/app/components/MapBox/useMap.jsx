@@ -4,14 +4,15 @@ import { useEffect, useRef } from "react";
 import { initMap } from "./initMap";
 import { generateNewMarker } from "./generateNewMarker";
 
-export const useMap = (container, position, popupContent) => {
+export const useMap = (container, position, title, accessToken, color) => {
   const mapInitRef = useRef(null);
   useEffect(() => {
     if (container.current) {
-      mapInitRef.current = initMap(container.current, [
-        position.lng,
-        position.lat,
-      ]);
+      mapInitRef.current = initMap(
+        container.current,
+        [position.lng, position.lat],
+        accessToken
+      );
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -19,7 +20,7 @@ export const useMap = (container, position, popupContent) => {
   useEffect(() => {
     mapInitRef.current &&
       mapInitRef.current.on("dblclick", ({ lngLat }) =>
-        generateNewMarker({ map: mapInitRef.current, popupContent, ...lngLat })
+        generateNewMarker({ map: mapInitRef.current, title, color, ...lngLat })
       );
 
     return () => {
@@ -33,7 +34,8 @@ export const useMap = (container, position, popupContent) => {
       mapInitRef.current.on("load", () =>
         generateNewMarker({
           map: mapInitRef.current,
-          popupContent,
+          title,
+          color,
           ...mapInitRef.current.getCenter(),
         })
       );
